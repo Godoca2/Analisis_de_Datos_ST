@@ -1,2 +1,2 @@
-# Analisis_de_Datos_ST
+# Analisis de Datos ST
 Análisis de Datos para Series de Tiempo
